@@ -4,15 +4,15 @@ const Models = () => {
   const [sectionRef, sectionVisible] = useScrollAnimation({ threshold: 0.1 })
 
   const models = [
-    { name: 'OpenAI', logo: '/logos/openai.png' },
-    { name: 'Anthropic', logo: '/logos/anthropic.png' },
-    { name: 'NVIDIA', logo: '/logos/nvidia.png' },
-    { name: 'Google', logo: '/logos/google.png' },
-    { name: 'Moonshot AI', logo: '/logos/moonshot.svg' },
-    { name: 'MiniMax', logo: '/logos/minimax.svg' },
-    { name: 'Qwen', logo: '/logos/qwen.svg' },
-    { name: 'DeepSeek', logo: '/logos/deepseek.svg' },
-    { name: 'Zhipu AI', logo: '/logos/zhipu.png' },
+{ name: 'OpenAI', logo: 'logos/openai.png' },
+  { name: 'Anthropic', logo: 'logos/anthropic.png' },
+  { name: 'NVIDIA', logo: 'logos/nvidia.png' },
+  { name: 'Google', logo: 'logos/google.png' },
+  { name: 'Moonshot AI', logo: 'logos/moonshot.svg' },
+  { name: 'MiniMax', logo: 'logos/minimax.svg' },
+  { name: 'Qwen', logo: 'logos/qwen.svg' },
+  { name: 'DeepSeek', logo: 'logos/deepseek.svg' },
+  { name: 'Zhipu AI', logo: 'logos/zhipu.png' },
   ]
 
   return (
