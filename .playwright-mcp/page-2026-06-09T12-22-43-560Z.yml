@@ -1,0 +1,112 @@
+- generic [ref=e4]:
+  - complementary [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]: Route Shell
+      - generic [ref=e8]:
+        - heading "Main Layout Routes" [level=1] [ref=e9]
+        - paragraph [ref=e10]: Matches the layout shell currently wrapping mapping, requests, template, content, and conversation pages.
+    - generic [ref=e11]:
+      - link "Home Redirect /home Redirects to /" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e13]:
+          - generic [ref=e14]: Home Redirect
+          - generic [ref=e15]: /home
+          - generic [ref=e16]: Redirects to /
+      - link "Mapping /mapping" [ref=e17] [cursor=pointer]:
+        - /url: /mapping
+        - generic [ref=e18]:
+          - generic [ref=e19]: Mapping
+          - generic [ref=e20]: /mapping
+      - link "Requests /requests" [ref=e21] [cursor=pointer]:
+        - /url: /requests
+        - generic [ref=e22]:
+          - generic [ref=e23]: Requests
+          - generic [ref=e24]: /requests
+      - link "Chat History /chatHistory/:id" [ref=e25] [cursor=pointer]:
+        - /url: /chatHistory/:id
+        - generic [ref=e26]:
+          - generic [ref=e27]: Chat History
+          - generic [ref=e28]: /chatHistory/:id
+      - link "Chat Deep History /chatDeepHistory/:id" [ref=e29] [cursor=pointer]:
+        - /url: /chatDeepHistory/:id
+        - generic [ref=e30]:
+          - generic [ref=e31]: Chat Deep History
+          - generic [ref=e32]: /chatDeepHistory/:id
+      - link "Model Library /modelLibrary" [ref=e33] [cursor=pointer]:
+        - /url: /modelLibrary
+        - generic [ref=e34]:
+          - generic [ref=e35]: Model Library
+          - generic [ref=e36]: /modelLibrary
+      - link "Template List /template" [ref=e37] [cursor=pointer]:
+        - /url: /template
+        - generic [ref=e38]:
+          - generic [ref=e39]: Template List
+          - generic [ref=e40]: /template
+      - link "Template Detail /templateDetail/:id" [ref=e41] [cursor=pointer]:
+        - /url: /templateDetail/:id
+        - generic [ref=e42]:
+          - generic [ref=e43]: Template Detail
+          - generic [ref=e44]: /templateDetail/:id
+      - link "Template PaaS /templatePaas/:id" [ref=e45] [cursor=pointer]:
+        - /url: /templatePaas/:id
+        - generic [ref=e46]:
+          - generic [ref=e47]: Template PaaS
+          - generic [ref=e48]: /templatePaas/:id
+      - link "Notification Message /notificationMessage/:id" [ref=e49] [cursor=pointer]:
+        - /url: /notificationMessage/:id
+        - generic [ref=e50]:
+          - generic [ref=e51]: Notification Message
+          - generic [ref=e52]: /notificationMessage/:id
+      - link "AI Events /aiEvents" [ref=e53] [cursor=pointer]:
+        - /url: /aiEvents
+        - generic [ref=e54]:
+          - generic [ref=e55]: AI Events
+          - generic [ref=e56]: /aiEvents
+      - link "AI Event Detail /aiEventDetail/:id" [ref=e57] [cursor=pointer]:
+        - /url: /aiEventDetail/:id
+        - generic [ref=e58]:
+          - generic [ref=e59]: AI Event Detail
+          - generic [ref=e60]: /aiEventDetail/:id
+      - link "Offer Compute /offerCompute" [ref=e61] [cursor=pointer]:
+        - /url: /offerCompute
+        - generic [ref=e62]:
+          - generic [ref=e63]: Offer Compute
+          - generic [ref=e64]: /offerCompute
+      - link "Offer Compute Success /offerComputeSuccess" [ref=e65] [cursor=pointer]:
+        - /url: /offerComputeSuccess
+        - generic [ref=e66]:
+          - generic [ref=e67]: Offer Compute Success
+          - generic [ref=e68]: /offerComputeSuccess
+      - link "Benefits Center /benefitsCenter" [ref=e69] [cursor=pointer]:
+        - /url: /benefitsCenter
+        - generic [ref=e70]:
+          - generic [ref=e71]: Benefits Center
+          - generic [ref=e72]: /benefitsCenter
+      - link "Benefits Center PaaS /benefitsCenterPaas/:id" [ref=e73] [cursor=pointer]:
+        - /url: /benefitsCenterPaas/:id
+        - generic [ref=e74]:
+          - generic [ref=e75]: Benefits Center PaaS
+          - generic [ref=e76]: /benefitsCenterPaas/:id
+  - main [ref=e77]:
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]: Main Layout
+        - generic [ref=e83]: React placeholder
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - heading "Model Library" [level=1] [ref=e86]
+          - paragraph [ref=e87]: This page is registered in the React route shell and mapped to the current Vue source file, but the feature itself has not been ported yet.
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - generic [ref=e90]: Path
+              - generic [ref=e91]: /modelLibrary
+            - generic [ref=e92]:
+              - generic [ref=e93]: Source
+              - generic [ref=e94]: src/view/modelLibrary/index.vue
+        - generic [ref=e95]:
+          - generic [ref=e96]: Rewrite status
+          - generic [ref=e97]: Route wired, page pending
+          - list [ref=e98]:
+            - listitem [ref=e99]: Current route topology mirrors the local Vue router grouping.
+            - listitem [ref=e100]: Layout shell is active so navigation and grouping can evolve before full page migration.
+            - listitem [ref=e101]: Next work here is the real page port, shared components, data hooks, and auth behavior.

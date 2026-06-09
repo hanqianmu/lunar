@@ -1,0 +1,180 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - button "PaleBlueDot.AI" [ref=e6] [cursor=pointer]:
+        - img "PaleBlueDot.AI" [ref=e7]
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - button "TokenRouter" [ref=e10] [cursor=pointer]
+        - listitem [ref=e11]:
+          - button "Token Factory" [ref=e12] [cursor=pointer]
+        - listitem [ref=e13]:
+          - button "About Us" [ref=e14] [cursor=pointer]
+        - listitem [ref=e15]:
+          - button "Contact Us" [ref=e16] [cursor=pointer]
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - generic [ref=e23]:
+              - heading "One TokenRouter All models" [level=1] [ref=e24]
+              - generic [ref=e25]:
+                - generic [ref=e26]: Faster
+                - generic [ref=e28]: Better
+                - generic [ref=e30]: Cheaper
+            - button "Explore TokenRouter" [ref=e31] [cursor=pointer]:
+              - text: Explore TokenRouter
+              - img [ref=e32]
+            - generic [ref=e34]:
+              - generic [ref=e35]:
+                - paragraph [ref=e36]: 99.9%
+                - paragraph [ref=e37]: UPTIME
+              - generic [ref=e38]:
+                - paragraph [ref=e39]: Smart
+                - paragraph [ref=e40]: CACHING
+              - generic [ref=e41]:
+                - paragraph [ref=e42]: Always-On
+                - paragraph [ref=e43]: ROUTING
+          - paragraph [ref=e44]: Access the World's Best AI Models
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - img "OpenAI" [ref=e50]
+            - generic [ref=e51]: OpenAI
+          - generic [ref=e52]:
+            - img "Anthropic" [ref=e53]
+            - generic [ref=e54]: Anthropic
+          - generic [ref=e55]:
+            - img "NVIDIA" [ref=e56]
+            - generic [ref=e57]: NVIDIA
+          - generic [ref=e58]:
+            - img "Google" [ref=e59]
+            - generic [ref=e60]: Google
+          - generic [ref=e61]:
+            - img "Moonshot AI" [ref=e62]
+            - generic [ref=e63]: Moonshot AI
+          - generic [ref=e64]:
+            - img "MiniMax" [ref=e65]
+            - generic [ref=e66]: MiniMax
+          - generic [ref=e67]:
+            - img "Qwen" [ref=e68]
+            - generic [ref=e69]: Qwen
+          - generic [ref=e70]:
+            - img "DeepSeek" [ref=e71]
+            - generic [ref=e72]: DeepSeek
+          - generic [ref=e73]:
+            - img "Zhipu AI" [ref=e74]
+            - generic [ref=e75]: Zhipu AI
+          - generic [ref=e76]:
+            - img "OpenAI" [ref=e77]
+            - generic [ref=e78]: OpenAI
+          - generic [ref=e79]:
+            - img "Anthropic" [ref=e80]
+            - generic [ref=e81]: Anthropic
+          - generic [ref=e82]:
+            - img "NVIDIA" [ref=e83]
+            - generic [ref=e84]: NVIDIA
+          - generic [ref=e85]:
+            - img "Google" [ref=e86]
+            - generic [ref=e87]: Google
+          - generic [ref=e88]:
+            - img "Moonshot AI" [ref=e89]
+            - generic [ref=e90]: Moonshot AI
+          - generic [ref=e91]:
+            - img "MiniMax" [ref=e92]
+            - generic [ref=e93]: MiniMax
+          - generic [ref=e94]:
+            - img "Qwen" [ref=e95]
+            - generic [ref=e96]: Qwen
+          - generic [ref=e97]:
+            - img "DeepSeek" [ref=e98]
+            - generic [ref=e99]: DeepSeek
+          - generic [ref=e100]:
+            - img "Zhipu AI" [ref=e101]
+            - generic [ref=e102]: Zhipu AI
+      - generic [ref=e104]:
+        - generic [ref=e106]:
+          - heading "Token Factory" [level=1] [ref=e107]
+          - paragraph [ref=e108]: Reserved GPU clusters for enterprise-grade custom Token Factory solutions.
+        - generic [ref=e109]:
+          - article [ref=e110]:
+            - img "GPU Clusters" [ref=e112]
+            - generic [ref=e113]:
+              - paragraph [ref=e114]: 0+
+              - paragraph [ref=e115]: GPU Clusters
+          - article [ref=e116]:
+            - img "GPUs Connected" [ref=e118]
+            - generic [ref=e119]:
+              - paragraph [ref=e120]: 0+
+              - paragraph [ref=e121]: GPUs Connected
+          - article [ref=e122]:
+            - img "Regions" [ref=e124]
+            - generic [ref=e125]:
+              - paragraph [ref=e126]: 0+
+              - paragraph [ref=e127]: Regions
+          - article [ref=e128]:
+            - img "Supply Partners" [ref=e130]
+            - generic [ref=e131]:
+              - paragraph [ref=e132]: 0+
+              - paragraph [ref=e133]: Supply Partners
+      - generic [ref=e136]:
+        - generic [ref=e137]:
+          - heading "Customized Compute Solutions" [level=2] [ref=e138]:
+            - text: Customized Compute
+            - text: Solutions
+          - paragraph [ref=e139]: Designed for customers with more complex infrastructure requirements, whether that means dedicated clusters for large-scale deployments, reserved capacity for planned workloads, or flexible GPU sourcing across our global network.
+          - button "Explore Token Factory" [ref=e140] [cursor=pointer]:
+            - text: Explore Token Factory
+            - img [ref=e141]
+        - img [ref=e144]
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - button "PaleBlueDot.AI" [ref=e196] [cursor=pointer]:
+              - img "PaleBlueDot.AI" [ref=e197]
+            - generic [ref=e198]:
+              - link [ref=e199] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/palebluedot-ai
+                - img [ref=e200]
+              - link [ref=e202] [cursor=pointer]:
+                - /url: https://x.com/palebluedot_ai
+                - img [ref=e203]
+              - link [ref=e205] [cursor=pointer]:
+                - /url: https://www.youtube.com/@PaleBlueDotAI
+                - img [ref=e206]
+              - link [ref=e208] [cursor=pointer]:
+                - /url: https://discord.gg/XX57FY8S9X
+                - img [ref=e209]
+          - generic [ref=e211]:
+            - generic [ref=e212]:
+              - paragraph [ref=e213]: QUICK LINKS
+              - button "TokenRouter" [ref=e214] [cursor=pointer]
+              - button "Token Factory" [ref=e215] [cursor=pointer]
+            - generic [ref=e216]:
+              - paragraph [ref=e217]: COMPANY
+              - button "About Us" [ref=e218] [cursor=pointer]
+              - button "Newsroom" [ref=e219] [cursor=pointer]
+              - button "Security and Compliance" [ref=e220] [cursor=pointer]
+            - generic [ref=e221]:
+              - paragraph [ref=e222]: STAY CONNECTED
+              - button "Contact Us" [ref=e223] [cursor=pointer]:
+                - text: Contact Us
+                - img [ref=e224]
+        - generic [ref=e227]:
+          - generic [ref=e228]:
+            - link "Terms of Use" [ref=e229] [cursor=pointer]:
+              - /url: https://palebluedotai-prod.s3.ap-southeast-1.amazonaws.com/PaleBlueDotTermsOfUse.pdf
+            - link "Privacy Policy" [ref=e230] [cursor=pointer]:
+              - /url: https://palebluedotai-prod.s3.ap-southeast-1.amazonaws.com/PaleBlueDotPrivacyPolicy.pdf
+            - link "Cookie Policy" [ref=e231] [cursor=pointer]:
+              - /url: https://palebluedotai-prod.s3.ap-southeast-1.amazonaws.com/cookiePolicy.html
+            - link "Accessibility Statement" [ref=e232] [cursor=pointer]:
+              - /url: https://palebluedotai-prod.s3.ap-southeast-1.amazonaws.com/accessibility.html
+          - generic [ref=e233]:
+            - paragraph [ref=e234]: © PaleBlueDot AI, Inc. and/or its affiliated companies.
+            - paragraph [ref=e235]: PaleBlueDot AI and related branded products and services are offered by PaleBlueDot AI, Inc. and/or its subsidiaries and affiliates.
+            - paragraph [ref=e236]: Certain proprietary technologies, platforms, and methodologies may be licensed to or from PaleBlueDot AI, Inc. or its affiliates, as applicable.
+            - paragraph [ref=e237]: "Note:"
+            - paragraph [ref=e238]: Certain services, platforms, or materials may require you to accept additional terms and conditions before accessing or using them.
+            - paragraph [ref=e239]: Materials presented on this website that are dated, including but not limited to press releases, blog posts, presentations, technical descriptions, and event materials, speak only as of their stated date and may have been superseded by subsequent developments, updates, or disclosures.
+            - paragraph [ref=e240]: Nothing contained on this website constitutes an offer to sell, license, or provide any services, products, or technologies, nor should it be construed as creating any binding commitment, unless expressly stated in a definitive written agreement.

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>PaleBlueDot</title>
+    <script type="module" crossorigin src="/assets/index-BExgAd4c.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/react-core-C8xf6ySq.js">
+    <link rel="modulepreload" crossorigin href="/assets/semi-ui-C_n7q3lr.js">
+    <link rel="modulepreload" crossorigin href="/assets/graphql-Cthf-wVR.js">
+    <link rel="stylesheet" crossorigin href="/assets/semi-ui-B3uDfECx.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-DKgtKi-r.css">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  </head>
+  <body>
+    <div id="root" name="root"></div>
+    <script>
+      if (typeof globalThis !== 'undefined' && typeof globalThis.global === 'undefined') {
+        globalThis.global = globalThis;
+      }
+      if (typeof window !== 'undefined' && typeof window.global === 'undefined') {
+        window.global = window;
+      }
+    </script>
+  </body>
+</html>

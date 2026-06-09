@@ -1,0 +1,15 @@
+services:
+  lunar-site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lunar-website
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+    networks:
+      - lunar-network
+
+networks:
+  lunar-network:
+    driver: bridge
